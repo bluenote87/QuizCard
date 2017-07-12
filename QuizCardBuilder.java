@@ -7,7 +7,7 @@ import java.io.*;
 public class QuizCardBuilder {
 	private JTextArea question;
 	private JTextArea answer;
-	private ArrayList<QuizCard> cardList; //ArrayList of type QuizCard, have to build this later
+	private ArrayList<QuizCard> cardList; //ArrayList of type QuizCard, have to build this later.
 	private JFrame frame;
 	
 	public static void main (String[] args) {
